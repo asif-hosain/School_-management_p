@@ -1,3 +1,4 @@
+import AtendanceChart from "@/components/AtendanceChart"
 import CountCharts from "@/components/CountCharts"
 import UserCard from "@/components/UserCard"
 
@@ -18,7 +19,7 @@ const AdminPage = () => {
         {/* {count chart} */}
         <div className="w-full lg:w-1/3 h-[450px]"><CountCharts/></div>
         {/* {attendance chart } */}
-        <div className="w-full lg:w-2/3 h-[450px]"></div>
+        <div className="w-full lg:w-2/3 h-[450px]"><AtendanceChart/></div>
       </div>
       {/* {bottomchart} */}
       <div></div>

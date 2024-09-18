@@ -47,19 +47,19 @@ const CountCharts = () => {
   <Tooltip />
 </RadialBarChart>
 </ResponsiveContainer>
-<Image src="/malefemale.png" width={50} height={50} className=" absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"/>
+<Image src="/malefemale.png" width={50} height={50} className=" absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2" alt={""}/>
         </div>
         {/* {bottom } */}
         <div className="flex justify-center gap-16 " >
           <div className="flex flex-col gap-1">
             <div className="rounded-full w-5 h-5 bg-lamaSky"/>
             <h1 className="font-bold">1,234</h1>
-            <h2 className="text-xl text-grey-300">Boy (55%)</h2>
+            <h2 className="text-xs text-gray-300">Boy (55%)</h2>
           </div>
           <div className="flex flex-col gap-1">
             <div className="rounded-full w-5 h-5 bg-lamaYellow"/>
             <h1 className="font-bold">1,234</h1>
-            <h2 className="text-xl text-grey-300">Girls (45%)</h2>
+            <h2 className="text-xs text-gray-300">Girls (45%)</h2>
           </div>
         </div>
     </div>

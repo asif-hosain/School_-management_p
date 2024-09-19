@@ -40,27 +40,27 @@ const data = [
   },
   {
     name: 'Aug',
-    income: 3490,
+    income: 8090,
     expense: 4300,
   },
   {
     name: 'Sep',
-    income: 3490,
+    income: 7790,
     expense: 4300,
   },
   {
     name: 'Oct',
-    income: 3490,
+    income: 4590,
     expense: 4300,
   },
   {
     name: 'Nov',
-    income: 3490,
+    income: 6690,
     expense: 4300,
   },
   {
     name: 'Dec',
-    income: 3490,
+    income: 5590,
     expense: 4300,
   },
 

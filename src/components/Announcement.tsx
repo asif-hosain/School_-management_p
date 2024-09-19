@@ -12,7 +12,7 @@ const Announcement = () => {
                     <h2 className="font-medium">Lorem ipsum dolor sit.</h2>
                     <span className="text-xs text-gray-400 bg-white rounded-md p-1">2025-1-1</span>
                 </div>
-                <p className="text-sm text-gray-400 mt-1"></p>
+                <p className="text-sm text-gray-400 mt-1">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quo numquam consectetur provident nihil unde dignissimos ducimus repudiandae sequi dolorum expedita!</p>
              </div>
 
              <div className=" bg-lamaPurple rounded-md p-4">
@@ -20,7 +20,7 @@ const Announcement = () => {
                     <h2 className="font-medium">Lorem ipsum dolor sit.</h2>
                     <span className="text-xs text-gray-400 bg-white rounded-md p-1">2025-1-1</span>
                 </div>
-                <p className="text-sm text-gray-400 mt-1"></p>
+                <p className="text-sm text-gray-400 mt-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque hic quia quis delectus, dolor optio blanditiis rerum cupiditate facilis suscipit!</p>
              </div>
 
              <div className=" bg-lamaYellow rounded-md p-4">
@@ -28,7 +28,7 @@ const Announcement = () => {
                     <h2 className="font-medium">Lorem ipsum dolor sit.</h2>
                     <span className="text-xs text-gray-400 bg-white rounded-md p-1">2025-1-1</span>
                 </div>
-                <p className="text-sm text-gray-400 mt-1"></p>
+                <p className="text-sm text-gray-400 mt-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae beatae at numquam voluptates provident eaque nulla cum id ipsam asperiores?</p>
              </div>
 
              

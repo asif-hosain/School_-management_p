@@ -95,7 +95,7 @@ const StudentsListPage = () => {
             </button>
 
             { role === "admin" &&<button className="w-8 h-8 flex items-center justify-center rounded-full bg-lamaYellow">
-              <Image src="/plus.png" alt="" height={14} width={14}/>
+              <Image src="/create.png" alt="" height={14} width={14}/>
             </button>}
           </div>
         </div>

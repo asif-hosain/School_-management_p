@@ -14,9 +14,9 @@ pnpm dev
 bun dev
 ```
 This is an ongoing Project. Routes are not declared yet
-Open [http://localhost:3000/admin](http://localhost:3000/admin) 
-[http://localhost:3000/student](http://localhost:3000/student) 
-[http://localhost:3000/parent](http://localhost:3000/parent) 
- with your browser to see the result.
+Open [http://localhost:3000/admin](http://localhost:3000/admin)  with your browser to see the admin pannel.
+[http://localhost:3000/student](http://localhost:3000/student) to see the student portal 
+[http://localhost:3000/parent](http://localhost:3000/parent) to see the parent portal
+[http://localhost:3000/teacher](http://localhost:3000/teacher) to see the teacher portal
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
